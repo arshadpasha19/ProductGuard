@@ -13,6 +13,10 @@ Screenshots of Mobile Application
 
 ![fss1](https://github.com/user-attachments/assets/1ea654c6-562c-45de-b35f-d1ea8bb0b610)
 ![fss2](https://github.com/user-attachments/assets/d9038811-1e7a-4eef-a952-20d51173b104)
+![fss6](https://github.com/user-attachments/assets/ccf92cdd-b4de-4a7f-acd0-151451e1ac05)
+![fss7](https://github.com/user-attachments/assets/f37e8b94-b371-490d-84f1-5e39cc836d81)
+
+
 
 
 
