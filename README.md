@@ -8,3 +8,5 @@ Personalized Recommendations: Implemented MobileNetV2 for precise skin type clas
 AI-Powered Guidance: Integrated a ChatGPT-powered chatbot to provide instant, expert advice, enhancing user experience with real-time, personalized skincare guidance.
 
 Ensured high performance and user accessibility by using technologies like React Native for frontend development and Flask for backend optimization.
+
+![fss1](https://github.com/user-attachments/assets/1ea654c6-562c-45de-b35f-d1ea8bb0b610)
